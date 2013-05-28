@@ -1,0 +1,716 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"player",
+				"playerList"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"thro",
+				"throw"
+			],
+			[
+				"next",
+				"nextPlayer"
+			],
+			[
+				"nex",
+				"nextPlayer"
+			],
+			[
+				"pro",
+				"proto	Prototype"
+			],
+			[
+				"focus",
+				"focusNextPawn"
+			],
+			[
+				"focu",
+				"focusedPawn"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"write",
+				"writeHead"
+			],
+			[
+				"mysq",
+				"mysqli"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"mysqli_conn",
+				"mysqli_connect_errno"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"del",
+				"deleteGallery"
+			],
+			[
+				"upda",
+				"updateGallery"
+			],
+			[
+				"getGa",
+				"getGallery"
+			],
+			[
+				"getGal",
+				"getGalleries"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"upd",
+				"updateImage"
+			],
+			[
+				"ajax",
+				".ajax	ajax"
+			],
+			[
+				"on",
+				".on	on"
+			],
+			[
+				"if",
+				"ife	if … else"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"lintdi",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"linte",
+				"SublimeLinter: Reset"
+			],
+			[
+				"lindis",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"ftps",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"dis",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Reset"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packlis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"syntjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"snipjqu",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"snippro",
+				"Snippet: Prototype"
+			],
+			[
+				"synjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"synjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 355.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Projekty/index.html",
+		"/D/Filmy/Rise of the Guardians 2012 DVDSCR LiNE XViD-sC0rp/Rise of the Guardians 2012 DVDSCR LiNE XViD-sC0rp.srt",
+		"/D/Projekty/ludo/js/game.js",
+		"/D/Projekty/ludo/css/style.css",
+		"/D/Projekty/ludo/js/pawn.js",
+		"/D/Projekty/ludo/js/dice.js",
+		"/D/Projekty/ludo/index.html",
+		"/D/Projekty/ludo/js/base.js",
+		"/D/Projekty/ludo/js/board.js",
+		"/D/Projekty/ludo/js/player.js",
+		"/D/Projekty/ludo/js/home.js",
+		"/D/Projekty/ludo/utils/sfx.js",
+		"/D/Projekty/ludo/to_base64.php",
+		"/D/Projekty/ludo/js/field.js",
+		"/D/Projekty/ludo/utils/menu.js",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Default (Windows).sublime-keymap",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Projekty/ludo/utils/popup.js",
+		"/D/Projekty/ludo/utils/log.js",
+		"/D/Projekty/ludo/js/entrance.js",
+		"/D/Projekty/ludo/javascript/board.js",
+		"/D/Projekty/ludo/javascript/game.js",
+		"/D/Projekty/ludo/javascript/pawn.js",
+		"/D/Projekty/ludo/lib/zepto.js",
+		"/D/Projekty/ludo/javascript/init.js",
+		"/D/Projekty/ludo/javascript/joy.js",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/D/Projekty/ludo/css/normalize.css",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/Nettuts+ Fetch/Default.sublime-commands",
+		"/C/WirelessDiagLog.csv",
+		"/C/freefallprotection.log",
+		"/C/3EC410C3E2FB",
+		"/D/Projekty/logger/dev/style.css",
+		"/D/Projekty/logger/dev/server.js",
+		"/D/Projekty/logger/dev/client.js",
+		"/D/Projekty/logger/dev/browser.js",
+		"/D/Projekty/logger/dev/index.html",
+		"/D/Projekty/scroller/js/core.js",
+		"/D/Projekty/scroller/js/scene.js",
+		"/D/Projekty/scroller/js/background.js",
+		"/D/Projekty/scroller/js/joy.js",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/D/Projekty/scroller/js/player.js",
+		"/D/Projekty/scroller/js/bullet.js",
+		"/D/Projekty/scroller/.jshintrc",
+		"/D/Projekty/scroller/index.html",
+		"/D/Projekty/scroller/js/main.js",
+		"/D/Projekty/scroller/style.css",
+		"/D/Projekty/scroller/js/map.js",
+		"/D/Projekty/scroller/js/projectile.js",
+		"/D/Projekty/gallery/ftpsync.settings",
+		"/D/Projekty/scroller/js/ftpsync.settings",
+		"/D/Projekty/scroller/scroller.sublime-project",
+		"/D/Projekty/archer/js/game.js",
+		"/D/Projekty/archer/index.html",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Projekty/platformer/js/core.js",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/D/Projekty/platformer/js/joy.js",
+		"/D/Projekty/scroller/js/mediator.js",
+		"/D/Projekty/scroller/js/stats.js",
+		"/D/Projekty/polling/routes/devices.js",
+		"/D/Projekty/polling/app.js",
+		"/D/Projekty/polling/routes/index.js",
+		"/D/Projekty/polling/routes/user.js",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/User/JsFormat.sublime-settings",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/FTPSync/ftpsync.sublime-settings",
+		"/D/Projekty/gallery/index.html",
+		"/D/Projekty/gallery/config.php",
+		"/D/Projekty/gallery/api.php",
+		"/D/Projekty/gallery/js/core.js",
+		"/D/Projekty/gallery/db.php",
+		"/D/Projekty/gallery/.htaccess",
+		"/D/Projekty/gallery/php.ini",
+		"/C/Users/Grzesiu/Downloads/codeguy-Slim-2.1.0-0-g6de1151/codeguy-Slim-6de1151/README.markdown",
+		"/C/Users/Grzesiu/Downloads/codeguy-Slim-2.1.0-0-g6de1151/codeguy-Slim-6de1151/index.php",
+		"/D/Projekty/gallery/slim/.htaccess",
+		"/D/Projekty/gallery/.project",
+		"/C/Users/Grzesiu/Downloads/laravel-laravel-v3.2.12-0-gd2fefa6/laravel-laravel-d2fefa6/readme.md",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/FTPSync/README.md",
+		"/D/Projekty/gallery/js/jquery.min.js",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/D/Projekty/scroller/test.css",
+		"/D/Projekty/scroller/js/test.js",
+		"/D/Projekty/scroller/ftpsync.settings",
+		"/C/Users/Grzesiu/AppData/Roaming/Sublime Text 2/Packages/User/FTPSync.sublime-settings",
+		"/C/Users/Grzesiu/Downloads/codeguy-Slim-2.1.0-0-g6de1151/codeguy-Slim-6de1151/Slim/Slim.php",
+		"/C/Users/Grzesiu/Downloads/codeguy-Slim-2.1.0-0-g6de1151/codeguy-Slim-6de1151/tests/Foo.php",
+		"/C/Users/Grzesiu/Downloads/codeguy-Slim-2.1.0-0-g6de1151/codeguy-Slim-6de1151/composer.json",
+		"/C/Users/Grzesiu/Downloads/codeguy-Slim-2.1.0-0-g6de1151/codeguy-Slim-6de1151/.travis.yml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folder>",
+			"open files",
+			"open folder",
+			"api.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setposition",
+			"doThrow",
+			"throw",
+			"elem",
+			"$",
+			"isMovable",
+			"player",
+			"end",
+			"home",
+			"base",
+			"Base",
+			"base",
+			"home",
+			"coords",
+			"steps",
+			"nextPawn",
+			"coords",
+			"nextPos",
+			"homePos",
+			"nextPawn",
+			"isFinished",
+			"focusedPawn",
+			"focusPawn",
+			"focusNextPawn",
+			"getField",
+			"sounds",
+			"soundEmitter",
+			"loc",
+			"console",
+			"isFocused",
+			"Dice",
+			"dice",
+			"focus",
+			"isFocused",
+			"step",
+			"draw",
+			"25",
+			"console",
+			"coords",
+			"nextPos",
+			"homePos",
+			"this.pawns",
+			"this.pawns[id]",
+			"j",
+			"i",
+			"j",
+			"i",
+			"  ",
+			"   ",
+			"javascript",
+			"\"",
+			"console",
+			"con",
+			"}());",
+			"Req",
+			"req",
+			"logRequest",
+			"port",
+			"sendError",
+			"qs",
+			"\"",
+			"logRequest",
+			"senderr",
+			"reset",
+			"blue",
+			"yellow",
+			"green",
+			"red",
+			"\"",
+			"index",
+			"\"",
+			"addListeners",
+			"mouse",
+			"shape =",
+			"Main",
+			"Map",
+			"ground",
+			"draw:",
+			"clear",
+			"getconte",
+			"Projectile",
+			"name",
+			"timer",
+			"width",
+			"512",
+			"960",
+			"shape =",
+			"shape",
+			"bg",
+			"getcontex",
+			"Map",
+			"layer = ",
+			"console",
+			"this.sy",
+			"this.sx",
+			"sx",
+			"SX",
+			"sx",
+			"SX",
+			"sx",
+			"newSX",
+			"speed",
+			"shape =",
+			"update",
+			"16",
+			"32",
+			"utils.bind",
+			"bind",
+			"getPosition",
+			"shapes",
+			"layer",
+			"tmpLayer",
+			"update",
+			" this.x",
+			".layer =",
+			"shape =",
+			"layer =",
+			"lay",
+			"isListening",
+			"x ",
+			"prevX",
+			"backgro",
+			"layer",
+			"mouse",
+			"targetImg",
+			"paint",
+			"Utils",
+			"showNextArrow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"dice",
+				"js/dice.js"
+			],
+			[
+				"pawn",
+				"js/pawn.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"ty",
+				"css/style.css"
+			],
+			[
+				"home",
+				"js/home.js"
+			],
+			[
+				"base",
+				"js/base.js"
+			],
+			[
+				"sfx",
+				"utils/sfx.js"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"s",
+				"css/style.css"
+			],
+			[
+				"ine",
+				"index.html"
+			],
+			[
+				"br",
+				"dev/browser.js"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"routes/u",
+				"routes/user.js"
+			],
+			[
+				"routes/",
+				"routes/index.js"
+			],
+			[
+				"db",
+				"db.php"
+			],
+			[
+				"hta",
+				".htaccess"
+			],
+			[
+				"api",
+				"api.php"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"js",
+				"js/map.js"
+			],
+			[
+				"co",
+				"js/core.js"
+			],
+			[
+				"css",
+				"style.css"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"html",
+				"index.html"
+			],
+			[
+				"pla",
+				"js/player.js"
+			],
+			[
+				"med",
+				"js/mediator.js"
+			],
+			[
+				"map",
+				"js/map.js"
+			],
+			[
+				"ft",
+				"ftpsync.settings"
+			],
+			[
+				"json",
+				"composer.json"
+			],
+			[
+				"sli",
+				"Slim/Slim.php"
+			],
+			[
+				"slim",
+				"Slim/Slim.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true
+}

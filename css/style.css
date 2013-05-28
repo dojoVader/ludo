@@ -1,0 +1,252 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #000 url('../images/bg_350.jpg');
+    min-height: 600px;
+    height: 100%;
+}
+
+#content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 800px;
+    height: 600px;
+    margin: -300px 0 0 -400px;
+}
+
+#board {
+    float: left;
+    width: 600px;
+    height: 600px;
+    background: url('../images/board.jpg');
+    box-shadow: 1px 1px 10px #000;
+}
+
+#sidebar {
+    position: relative;
+    float: left;
+    width: 200px;
+}
+
+#players-list {
+    width: 170px;
+    position: relative;
+    padding: 40px 0 0 30px;
+    margin: 0;
+    background: url('../images/sprites.png') 30px -480px no-repeat;
+    overflow: hidden;
+    list-style-type: none;
+}
+
+.icon {
+    float: left;
+    width: 40px;
+    height: 40px;
+    background: url('../images/sprites.png') no-repeat;
+}
+
+.player {
+    float: left;
+    clear: left;
+    width: 170px;
+    height: 40px;
+    overflow: hidden;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px #000;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    line-height: 40px;
+}
+
+.player-2 .icon {
+    background-position: -320px 0;
+}
+
+.player-3 .icon {
+    background-position: -320px -40px;
+}
+
+.player-4 .icon {
+    background-position: -320px -80px;
+}
+
+.player-5 .icon {
+    background-position: -320px -120px;
+}
+
+.arrow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    background: url('../images/sprites.png') -240px 0 no-repeat;
+    -webkit-transition: top .1s linear;
+}
+
+.arrow-0 {
+    top: 40px;
+}
+
+.arrow-1 {
+    top: 80px;
+}
+
+.arrow-2 {
+    top: 120px;
+}
+
+.arrow-3 {
+    top: 160px;
+}
+
+.shadow {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: url('../images/shadow.png');
+    background-size: 100% 100%;
+}
+
+.pawn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: url('../images/pawns.png') no-repeat;
+    -webkit-transition: top .1s linear, left .1s linear;
+}
+
+.pawn.focused {
+    -webkit-animation: .5s steps(1) infinite alternate;
+    cursor: pointer;
+}
+
+.pawn-2.focused {
+    -webkit-animation-name: focusred;
+}
+
+.pawn-3 {
+    background-position: 0 -50px;
+}
+
+.pawn-3.focused {
+    -webkit-animation-name: focusgreen;
+}
+
+.pawn-4 {
+    background-position: 0 -100px;
+}
+
+.pawn-4.focused {
+    -webkit-animation-name: focusyellow;
+}
+
+.pawn-5 {
+    background-position: 0 -150px;
+}
+
+.pawn-5.focused {
+    -webkit-animation-name: focusblue;
+}
+
+@-webkit-keyframes focusred {
+    0% { background-position: 0 0; }
+    25% { background-position: -50px 0; }
+    50% { background-position: -100px 0; }
+    75% { background-position: -150px 0; }
+}
+
+@-webkit-keyframes focusgreen {
+    0% { background-position: 0 -50px; }
+    25% { background-position: -50px -50px; }
+    50% { background-position: -100px -50px; }
+    75% { background-position: -150px -50px; }
+}
+
+@-webkit-keyframes focusyellow {
+    0% { background-position: 0 -100px; }
+    25% { background-position: -50px -100px; }
+    50% { background-position: -100px -100px; }
+    75% { background-position: -150px -100px; }
+}
+
+@-webkit-keyframes focusblue {
+    0% { background-position: 0 -150px; }
+    25% { background-position: -50px -150px; }
+    50% { background-position: -100px -150px; }
+    75% { background-position: -150px -150px; }
+}
+
+
+.dice-wrap {
+    position: absolute;
+    top: 485px;
+    left: 635px;
+    width: 90px;
+    height: 90px;
+    background-image: url('../images/dice.png');
+    background-position: 0 -75px;
+    -webkit-transition: top .1s linear, left .1s linear;
+}
+
+@-webkit-keyframes focusdice {
+    0% { background-position: 0 -75px; }
+    25% { background-position: -90px -75px; }
+    50% { background-position: -180px -75px; }
+    75% { background-position: -270px -75px; }   
+}
+
+.dice-wrap.focused {
+    -webkit-animation: focusdice .5s steps(1) infinite alternate;
+}
+
+.dice {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    width: 60px;
+    height: 60px;
+    background-image: url('../images/dice.png');
+    cursor: pointer;
+}
+
+.dice-2 {
+    background-position: -60px 0;
+}
+
+.dice-3 {
+    background-position: -120px 0;
+}
+
+.dice-4 {
+    background-position: -180px 0;
+}
+
+.dice-5 {
+    background-position: -240px 0;
+}
+
+.dice-6 {
+    background-position: -300px 0;
+}
+
+.throw {
+    opacity: .3;
+}
+
+.dice-hint {
+    position: absolute;
+    top: -70px;
+    left: 45px;
+    width: 120px;
+    height: 80px;
+    background: url('../images/sprites.png') -240px -160px no-repeat;
+}
